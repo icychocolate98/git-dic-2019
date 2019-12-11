@@ -1,0 +1,6 @@
+Hola mundo.
+Descargar git-scm de https://git-scm.com/download/win
+Creamos cuenta en github
+Principios básicos de control de versiones en VSCode 
+https://code.visualstudio.com/docs/editor/versioncontrol
+ahora podemos haver varios commits (con el check, con el command palette, en el terminal ... )
