@@ -4,3 +4,7 @@ Creamos cuenta en github
 Principios básicos de control de versiones en VSCode 
 https://code.visualstudio.com/docs/editor/versioncontrol
 ahora podemos haver varios commits (con el check, con el command palette, en el terminal ... )
+Subimos a github y creamor reopsitorio.
+Copiamos URL del repositorio remoto...
+git remote add origin https://github.com/icychocolate98/git-dic-2019.git
+Commit 1 ya subido todo.
